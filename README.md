@@ -56,6 +56,7 @@ ii. **Rewards and Episodes:** An agent over the course of its lifetime starts fr
 iii. **Temporal Difference or TD-Update:**
 The Temporal Difference or TD-Update rule can be represented as follows :
 
+![TD_Update-300x30](https://user-images.githubusercontent.com/86042628/143725309-4f193591-bbfc-4e71-9398-e9fa0b1542bd.jpg)
 
 
 This update rule to estimate the value of Q is applied at every time step of the agents interaction with the environment. The terms used are explained below. :
